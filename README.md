@@ -1,2 +1,0 @@
-# GDWD
-HTML page
